@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/amin/static/css/main.52687d9f.css",
-    "main.js": "/amin/static/js/main.46ce9f14.js",
+    "main.css": "/amin/static/css/main.cd303b42.css",
+    "main.js": "/amin/static/js/main.36654740.js",
     "static/js/787.525407c6.chunk.js": "/amin/static/js/787.525407c6.chunk.js",
     "static/media/gallery-banner.png": "/amin/static/media/gallery-banner.7b1696c9993f72e013cd.png",
     "static/media/39888746_xl.jpg": "/amin/static/media/39888746_xl.8b616e9bcb7749efdff8.jpg",
@@ -18,12 +18,12 @@
     "static/media/12.jpg": "/amin/static/media/12.d173d26b0cea929ba342.jpg",
     "static/media/logo.png": "/amin/static/media/logo.04b4c0bf3a10b93e8ee4.png",
     "index.html": "/amin/index.html",
-    "main.52687d9f.css.map": "/amin/static/css/main.52687d9f.css.map",
-    "main.46ce9f14.js.map": "/amin/static/js/main.46ce9f14.js.map",
+    "main.cd303b42.css.map": "/amin/static/css/main.cd303b42.css.map",
+    "main.36654740.js.map": "/amin/static/js/main.36654740.js.map",
     "787.525407c6.chunk.js.map": "/amin/static/js/787.525407c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52687d9f.css",
-    "static/js/main.46ce9f14.js"
+    "static/css/main.cd303b42.css",
+    "static/js/main.36654740.js"
   ]
 }
