@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/amin/static/css/main.52687d9f.css",
+    "main.js": "/amin/static/js/main.46ce9f14.js",
+    "static/js/787.525407c6.chunk.js": "/amin/static/js/787.525407c6.chunk.js",
+    "static/media/gallery-banner.png": "/amin/static/media/gallery-banner.7b1696c9993f72e013cd.png",
+    "static/media/39888746_xl.jpg": "/amin/static/media/39888746_xl.8b616e9bcb7749efdff8.jpg",
+    "static/media/kind-words.jpg": "/amin/static/media/kind-words.3c5736033665a21cd8e7.jpg",
+    "static/media/wedding-book.jpg": "/amin/static/media/wedding-book.7d54da8e55b15586a5b0.jpg",
+    "static/media/39822682_l.jpg": "/amin/static/media/39822682_l.c78f5c7f0a80113a30c2.jpg",
+    "static/media/new-39410516_xl-1.jpg": "/amin/static/media/new-39410516_xl-1.ab21dce02eefd3beaca8.jpg",
+    "static/media/03-2.jpg": "/amin/static/media/03-2.1cdd016f51b4a92a1ebe.jpg",
+    "static/media/Weddings_Galleries-1.jpg": "/amin/static/media/Weddings_Galleries-1.a8fc831e6f1d2f25cbd0.jpg",
+    "static/media/Portraits_Galleries-1.jpg": "/amin/static/media/Portraits_Galleries-1.902e26e9a1280d9d7b81.jpg",
+    "static/media/b.jpg": "/amin/static/media/b.8b1aa08ddfd4e181d8d4.jpg",
+    "static/media/Home-wedding-galleries01.jpg": "/amin/static/media/Home-wedding-galleries01.5c99391b724981079b7e.jpg",
+    "static/media/47035459_l-2.jpg": "/amin/static/media/47035459_l-2.d8486a7a2fb4e94f8fbc.jpg",
+    "static/media/12.jpg": "/amin/static/media/12.d173d26b0cea929ba342.jpg",
+    "static/media/logo.png": "/amin/static/media/logo.04b4c0bf3a10b93e8ee4.png",
+    "index.html": "/amin/index.html",
+    "main.52687d9f.css.map": "/amin/static/css/main.52687d9f.css.map",
+    "main.46ce9f14.js.map": "/amin/static/js/main.46ce9f14.js.map",
+    "787.525407c6.chunk.js.map": "/amin/static/js/787.525407c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52687d9f.css",
+    "static/js/main.46ce9f14.js"
+  ]
+}
